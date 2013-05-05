@@ -1,0 +1,25 @@
+/* 
+    Document   : kldb
+    Created on : 16.6.2011, 12:47:18
+    Author     : Mika.Hatakka
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#kldb-search-form .form-item {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+#kldb-search-form select {
+  margin-left: 0;
+}
+
+.kldb-ref-table .kldb-ref {
+  width: 12em;
+}
